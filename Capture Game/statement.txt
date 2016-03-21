@@ -1,0 +1,7 @@
+"The project needs to be done in Java and Run from Netbeans if possible. its a two player game on a 
+board - the board is the same as a chess games board 8,8 cells, arrays. Two pieces only on the board - 
+These pieces move like queens on a chess board. The idea of the game is that each player takes in turn 
+to move around the board to any location , when they land on one location that location needs to be marked with an *
+ to say that its been used up . next the next player will move to a box,cell that has not been used before, 
+this is done over and over till there are no more moves. the player whom cannot move loses . 
+players cannot move over cells that have been used".
